@@ -1,0 +1,1 @@
+key|note_word|phi_tag|pos_tag|context|filename|include_exclude|exclude_filters|include_filters
